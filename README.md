@@ -15,6 +15,7 @@ Included scripts:
 ---
 
 Motherboard support:
+
 | Model                        | Color configuration | Rear Panel LEDs (on/off) | Audio LEDs (on/off) | Beat/Pulse mode              |
 | ---------------------------- | ------------------- | ------------------------ | ------------------- | ---------------------------- |
 | GA-Z170X-Gaming 7 (rev. 1.0) | :x:                 | :white_check_mark:       | :white_check_mark:  | untested (most probably: no) |
