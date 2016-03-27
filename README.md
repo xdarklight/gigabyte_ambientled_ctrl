@@ -1,7 +1,7 @@
-Gigabyte Ambient LED control scripts for Linux
+GIGABYTE Ambient LED control scripts for Linux
 ==============================================
 
-These scripts allow you to configure the Ambient LEDs found on some Gigabyte motherboards.
+These scripts allow you to configure the Ambient LEDs found on some GIGABYTE motherboards.
 
 ---
 
