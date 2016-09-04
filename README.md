@@ -15,8 +15,8 @@ Included scripts:
 ---
 
 These scripts assume that the LEDs are connected to an ITE Super IO chipset.  
-Support for the ITE 8620 / 8628 is currently not available in the upstream gpio-it87 driver, but a WIP patch exists: [https://patchwork.ozlabs.org/patch/602357/]().  
-An out-of-tree version with the patch applied can be found here: [https://github.com/xdarklight/gpio-it87](xdarklight/gpio-it87).
+Support for the ITE 8620 / 8628 GPIO controller is available with Linux 4.7.  
+An out-of-tree version (for older kernels) with the patch applied can be found here: [https://github.com/xdarklight/gpio-it87](xdarklight/gpio-it87).
 
 
 **Motherboard support:**
