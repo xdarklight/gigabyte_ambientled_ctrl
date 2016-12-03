@@ -12,6 +12,9 @@ Included scripts:
   - controls the Audio LED mode
   - only works when using the on-board sound chip
 
+These scripts have to be executed as root!\\
+Your kernel must be able to configure the gpio-it87 chip (CONFIG_GPIO_IT87 has to be enabled and gpio-it87 has to be loaded), otherwise these scripts won't work.
+
 ---
 
 These scripts assume that the LEDs are connected to an ITE Super IO chipset.  
