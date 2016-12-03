@@ -25,6 +25,11 @@ An out-of-tree version (for older kernels) with the patch applied can be found h
 | ---------------------------- | ------------------- | ------------------------ | ------------------- | ---------------------------- |
 | GA-Z170X-Gaming 7 (rev. 1.0) | :x:                 | :white_check_mark:       | :white_check_mark:  | untested (most probably: no) |
 
+icon meanings:
+:x: = not supported by this script (but support by the hardware) 
+:white_check_mark: = supported by this script 
+:heavy_minus_sign: = not supported by the hardware 
+
 License
 -------
 
