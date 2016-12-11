@@ -56,6 +56,7 @@ config_advanced_audio_led_board() {
 }
 
 case "$(cat /sys/class/dmi/id/board_name)" in
+	"H170-Gaming-3" |\
 	"H170M-D3H")
 		config_simple_audio_led_board "${1}"
 		;;
