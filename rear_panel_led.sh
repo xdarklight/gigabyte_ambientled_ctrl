@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 . ./gpio_it87.sh
 

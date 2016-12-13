@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 gpio_it87_get_base() {
 	local IT87_GPIO_LABEL_FILE=$(grep -l "gpio_it87" /sys/class/gpio/gpiochip*/label)
