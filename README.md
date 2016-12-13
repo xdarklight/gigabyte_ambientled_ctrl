@@ -27,7 +27,7 @@ An out-of-tree version (for older kernels) with the patch applied can be found h
 | Model                        | Color configuration | Rear Panel LEDs (on/off) | Audio LEDs (on/off) | Beat/Pulse mode              |
 | ---------------------------- | ------------------- | ------------------------ | ------------------- | ---------------------------- |
 | GA-Z170X-Gaming 7 (rev. 1.0) | :x:                 | :white_check_mark:       | :white_check_mark:  | untested (most probably: no) |
-| GA-H170-Gaming 3 (rev. 1.0)  | :heavy_minus_sign:  | :heavy_minus_sign:       | :white_check_mark:  | :heavy_minus_sign:           |
+| GA-H170-Gaming 3 (rev. 1.0)  | :heavy_minus_sign:  | :heavy_minus_sign:       | :white_check_mark:  | untested (most probably: no) |
 | GA-H170M-D3H (rev. 1.0)      | :heavy_minus_sign:  | :heavy_minus_sign:       | :white_check_mark:  | :heavy_minus_sign:           |
 
 icon meanings:
