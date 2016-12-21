@@ -59,7 +59,7 @@ case "$(cat /sys/class/dmi/id/board_name)" in
 	"H170M-D3H")
 		config_simple_audio_led_board "${1}"
 		;;
-	"H170-Gaming-3" |\
+	"H170-Gaming 3" |\
 	"Z170X-Gaming 7" |\
 	*)
 		config_advanced_audio_led_board "${1}"
