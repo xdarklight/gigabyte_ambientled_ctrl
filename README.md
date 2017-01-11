@@ -36,6 +36,8 @@ icon meanings:
 :white_check_mark: = supported by this script 
 :heavy_minus_sign: = not supported by the hardware 
 
+:information_source: please create a ticket if your board is not yet supported or you want to report that it is supported but not listed here.
+
 License
 -------
 
