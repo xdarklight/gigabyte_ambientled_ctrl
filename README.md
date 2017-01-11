@@ -42,4 +42,4 @@ May be freely distributed under the MIT license
 
 See `LICENSE` file.
 
-Copyright (c) 2016 Martin Blumenstingl
+Copyright (c) 2016-2017 Martin Blumenstingl
